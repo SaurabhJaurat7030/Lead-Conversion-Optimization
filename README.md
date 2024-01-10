@@ -28,12 +28,12 @@ Libraries
 
 ## Project Approach
 
-1. **Data Exploration**
+### **Data Exploration**
      - Dataset informationa and description
 ![Dataset](https://github.com/SaurabhJaurat7030/Lead-Conversion-Optimization/assets/154229876/72bb613c-959f-4fc7-82b7-038827c4340a)
 ![descrition](https://github.com/SaurabhJaurat7030/Lead-Conversion-Optimization/assets/154229876/5494c387-2b04-422b-9fc8-795b9b10e4b8)
 ![data_info](https://github.com/SaurabhJaurat7030/Lead-Conversion-Optimization/assets/154229876/06836f2e-7128-434b-83de-92dc469cf9dd)
-2. **Data Processing and Exploratory data Analysiss**
+### **Data Processing and Exploratory data Analysiss**
 Different features vs convered(target veriable)
 - Categorical Variables vs Target Variable(Converted)
   
@@ -55,7 +55,7 @@ Different features vs convered(target veriable)
 
 - After, removing the columns with more than 40% null values and taking dummy variables total fetaures became 57 
 
-3. **Model Building**
+### **Model Building**
 
 - used RFE (Recursive Feature Elimination) from sklearn library for getting top 15 features
   ![Top_15_features](https://github.com/SaurabhJaurat7030/Lead-Conversion-Optimization/assets/154229876/df7b5347-fbca-440e-b17f-8b1449596c5a)
@@ -87,7 +87,7 @@ Different features vs convered(target veriable)
 - **Precision : 0.89**
 - **Recall : 0.91**
 
-4. **Summary**
+### **Summary**
 
 X Education , An education company named sells online courses to industry professionals. Many interested professionals land on their website.
 
